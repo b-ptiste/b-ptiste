@@ -2,7 +2,7 @@
 
 I am passionate about machine learning and its applications in research. My focus is on open-source projects and collaborating on cutting-edge techniques : Computer Vision, Multi-modal Models, and Language Models
 
-Check [my webpage](https://b-ptiste.github.io/)!
+Check [my webpage](https://b-ptiste.github.io/) !
 
 #### Data Challenge Achievements
 
