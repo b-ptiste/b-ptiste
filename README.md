@@ -11,7 +11,7 @@ Check [my webpage](https://b-ptiste.github.io/) !
 - **Few-Shot Novelty Instance Segmentation** (Collège de France) – 🥈 2nd out of 20
 - **Sketch Classification** (ENS Ulm) – 🏅 4th out of 59
 - **Multiple Instance Learning** (CentraleSupélec - Université Paris-Saclay) – 🏅 16th out of 39
-- 
+  
 #### Projects
 
 | Modalities | Project                                                               | Code                                                                                   | Report                                                                                                                   | Posters |
